@@ -355,7 +355,7 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - GitHub: [Krirati Kani](https://github.com/Krirati)
 
 Name: Oarabile Mwiya
-Place: Tutume, Botswana
+Place: Francistown, Botswana
 Bio: Computer Science graduate
 GitHub: Oarabile Mwiya (https://github.com/oarabilemwiya)
 
