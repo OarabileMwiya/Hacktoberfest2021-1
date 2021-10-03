@@ -354,3 +354,8 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: Android Developer, Golang Developer
 - GitHub: [Krirati Kani](https://github.com/Krirati)
 
+Name: Oarabile Mwiya
+Place: Tutume, Botswana
+Bio: Computer Science graduate
+GitHub: Oarabile Mwiya (https://github.com/oarabilemwiya)
+
